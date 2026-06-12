@@ -1,0 +1,4 @@
+name: carwash
+type: php
+webserver_type: generic
+omit_containers: [db, ddev-ssh-agent]
